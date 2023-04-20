@@ -3,6 +3,7 @@
 ## ResNeXt:
 分组卷积带入resnet
 2016年 Saining Xie https://arxiv.org/abs/1611.05431
+![c](https://img-blog.csdnimg.cn/img_convert/ab69995c92d856af40f9b3d54e09e463.png#pic_center)
 
 ## Res2Net:
 类似特征金字塔的结构引入每个block
