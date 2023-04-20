@@ -11,3 +11,5 @@
 ## ResNest：(Split-Attention)
 在block的2d卷积中引入注意力机制，且可选空洞卷积
 2020年 Hang Zhang https://arxiv.org/abs/2004.08955
+
+![aa](https://img-blog.csdnimg.cn/img_convert/d6e7bff3c54b779a15f9b1265c061fd4.png#pic_center)
